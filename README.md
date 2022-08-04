@@ -1,4 +1,4 @@
 # Proyecto_Logica
 
-### Buscaminas
+## Buscaminas
 Juan David Serna - Juan David Londoño - Juan Jose Zuluaga
